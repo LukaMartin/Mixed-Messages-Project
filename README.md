@@ -10,5 +10,6 @@ To use the Mixed Messages program a user needs to input their birth date and mon
 
 **day, month**
 
-*For example 9, April*
+For example: 9, April
+
 The program will then return a message to the user based of their astrology.
